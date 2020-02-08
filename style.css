@@ -1,0 +1,15 @@
+input{
+	width: 130px;
+	height: 80px;
+	font-size: 75px;
+	margin: 10px;
+	background-color: #000;
+	color: #fff;
+	border-style: none;
+	border-radius: 10px;
+}
+
+input:hover {
+	background-color: grey;
+
+}
